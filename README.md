@@ -11,7 +11,7 @@
 
 ## 👋 Hola, soy Xabi
 
-Ingeniero de software en Barcelona y fundador y director técnico de **[ImpulsoXL](https://impulsoxl.com)**.
+Ingeniero de software navarro, de Pamplona, y fundador y director técnico de **[ImpulsoXL](https://impulsoxl.com)**.
 
 Ayudo a pequeñas empresas y equipos en crecimiento a pasar **del caos operativo a un sistema claro**: CRMs a medida para sectores concretos, paneles de control y automatizaciones que eliminan trabajo manual. Con IA, pero solo **cuando aporta valor real y medible**.
 
