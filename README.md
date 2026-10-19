@@ -50,9 +50,9 @@ App nativa para macOS que graba tus videollamadas **sin meter bots** en la reuni
 
 Producto propio de ImpulsoXL: CRM hipotecario SaaS multi-tenant para brokers, con portal de clientes, firma digital y comparador bancario.
 
-### 🏢 [ImpulsoXL](https://impulsoxl.com/casos)
+### 🏢 [ImpulsoXL](https://impulsoxl.com) · colaboro con empresas
 
-Desarrollo de software a medida con propósito. Nueve proyectos entre trabajos para clientes y productos propios: clínicas, formación, fitness, logística urbana, restauración y finanzas.
+Desarrollo de software a medida con propósito. Colaboro con empresas de salud, formación, fitness, logística urbana, restauración y finanzas: nueve proyectos entre trabajos para clientes y productos propios. **[Ver casos →](https://impulsoxl.com/casos)**
 
 ## 🧰 Stack
 
@@ -74,6 +74,8 @@ Desarrollo de software a medida con propósito. Nueve proyectos entre trabajos p
 **En la terminal:** [herdr](https://github.com/herdrdev/herdr) · [Moshi](https://getmoshi.app) · [gentle-shell](https://github.com/Gentleman-Programming/gentle-shell).
 
 ## 🤖 Programo con agentes de IA
+
+Sigo la filosofía de **[Gentleman Programming](https://github.com/Gentleman-Programming)**: conceptos antes que código, bases sólidas antes que prisas, y la IA como herramienta que diriges tú, no al revés.
 
 Trabajo con Claude Code y **[Gentle AI](https://github.com/Gentleman-Programming/gentle-ai)**: memoria persistente entre sesiones, Organic-Driven Development y revisión de código acotada antes de entregar. Minutes, por ejemplo, salió de ahí: diseñado, construido, revisado y probado con agentes.
 
