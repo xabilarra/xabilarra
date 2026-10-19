@@ -13,7 +13,21 @@
 
 Ingeniero de software navarro, de Pamplona, y fundador y director técnico de **[ImpulsoXL](https://impulsoxl.com)**.
 
+Antes de programar me dediqué al **diseño de producto** y al **marketing digital**, así que no empiezo por el código: empiezo por el usuario, el negocio y cómo se va a vender.
+
 Ayudo a pequeñas empresas y equipos en crecimiento a pasar **del caos operativo a un sistema claro**: CRMs a medida para sectores concretos, paneles de control y automatizaciones que eliminan trabajo manual. Con IA, pero solo **cuando aporta valor real y medible**.
+
+## 🧬 De dónde vengo
+
+<div align="center">
+
+🎨 **Diseño de producto** &nbsp;→&nbsp; 📣 **Marketing digital** &nbsp;→&nbsp; 🛠️ **Desarrollo de producto**
+
+</div>
+
+- 🎨 **Diseño de producto**: entender al usuario y convertir un problema en un flujo sencillo.
+- 📣 **Marketing digital**: saber cómo se capta, se convierte y se mide.
+- 🛠️ **Desarrollo**: construir yo mismo el sistema completo, de la base de datos a la interfaz.
 
 ## 🧭 Cómo trabajo
 
