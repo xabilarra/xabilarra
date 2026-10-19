@@ -57,7 +57,7 @@ Desarrollo de software a medida con propósito. Nueve proyectos entre trabajos p
 </p>
 
 **Arquitectura:** Clean, Hexagonal y Screaming Architecture · tests primero · entregas pequeñas y revisables.<br>
-**En la terminal:** LazyVim · tmux · Zellij.
+**En la terminal:** [herdr](https://github.com/herdrdev/herdr) · [Moshi](https://getmoshi.app) · [gentle-shell](https://github.com/Gentleman-Programming/gentle-shell).
 
 ## 🤖 Programo con agentes de IA
 
